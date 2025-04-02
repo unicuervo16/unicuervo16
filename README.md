@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="  https://avatars.githubusercontent.com/u/143937?s=200&v=4" height="40" alt="angularjs logo"  />
   <h3 align="left"><strong>Bases de Datos:</strong></h3>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.11/icons/microsoftsqlserver.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
@@ -53,6 +55,9 @@
   <h3 align="left"><strong>Control de versiones:</strong></h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+
+
 </div>
 
 ###
