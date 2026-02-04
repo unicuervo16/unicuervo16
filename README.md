@@ -19,7 +19,7 @@
 > #### <strong>Detalles:</strong>
 >
 > - 💻 Me encanta programar.
-> - 📚 Estudio Ingeniería Informática.
+> - 📚 Soy aficionado de la Ciberseguridad.
 > - ⚡ Soy profesor.
 >
 > 🫨 "En *teoria* todo es *practica*" -**Joel Garbagnate**.
